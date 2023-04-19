@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Bank Project Built with React and deployed to AWS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Link to website http://scamcon.s3-website-us-east-1.amazonaws.com
 
 ## Available Scripts
 
