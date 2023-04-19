@@ -1,0 +1,74 @@
+.App {
+font-family: sans-serif;
+text-align: center;
+}
+.btn btn-primary btn-lg{
+            padding-left: 2.5rem; 
+            padding-right: 2.5rem;
+          }
+
+          .main {
+            margin: 0;
+            padding: 0;
+            /* top:50%; */
+            font-family: arial;
+            box-sizing: border-box;
+          }
+          .body {
+            height: 50vh;
+            display: grid;
+            place-items: center;
+          }
+          
+          tabel {
+            width: 600px;
+            box-shadow: -1px 12px 12px 12px -6px rgba(0, 0, 0, 0.5);
+            /* padding:20px;
+            border:1px solid lightcoral;
+            border-collapse: collapse;
+            text-align:center; */
+          }
+          td {
+            padding: 20px;
+            border: 1px solid lightcoral;
+            border-collapse: collapse;
+            text-align: center;
+            font-size: 18px;
+          }
+          th {
+            background-color: lightblue;
+            color: white;
+            padding: 20px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+          }
+          tr:nth-child(odd) {
+            background-color: rgb(68, 218, 170);
+          }
+          tr:nth-child(odd):hover {
+            background-color: dodgerblue;
+            color: white;
+            /* transform: scale(1.5);
+            transition:0.5s ease-in; */
+          }
+          tr:nth-child(even) {
+            background-color: rgba(43, 214, 71, 0.399);
+          }
+          tr:nth-child(even):hover {
+            background-color: rgb(52, 198, 224);
+            color: white;
+            /* transform: scale(1.5);
+            transition:0.5s ease-in-out;
+            border-radius:50px; */
+          }
+.center-container {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  display: flex;
+  justify-content: center;
+}        
