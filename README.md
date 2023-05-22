@@ -46,16 +46,16 @@ Review your Data...and everyone elses.  You can see you user info and balance.
  
 
 ## <ins>Install
-
-
-## <ins>How to Run
-
-Load page and click the button in the top left hand corner.
+Clone Repo into editor => Open terminal in VS Code or other editor => run "npm init" to install packages or view package.json for packages to install.  
+ Run "npm start".  ScamCon should be running on localhost.
+ 
+ ## <ins>Technology Used
+ ScamCon was created using React, Bootstrap, NPM Build and deployed with AWS
 
 ## <ins>Future improvements
 
-There are many future improvements that would be useful to the user including a more descriptive icons and markers to show the user where items are on the map.  A key to add descriptions to the icons.  Navigation controls so the user can zoom and pan.  A dropdown so the user might be able to choose multiple routes.
-
+There are many future improvements I would like to make.  I am currently having issues connecting this to MongoDB for a backend server.  I would like to get that resolved soon.  I need to use more state and effect for immediate updates on the app.  In the future I would like to turn this from a Bad Bank into a Good Bank by
+implementing more security features and restricting data access to only the current users data.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
