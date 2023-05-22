@@ -7,15 +7,46 @@ A user can create an account, deposit and withdraw funds.  There is also fun eas
 that a user would enjoy.
 
 # ScamCon Bank
-Animated Bus Route
+A Bank with Bad Security and Negative Interest Rates
 
-<p align="center">
-  <img width="500" height="300" src="BusRoute.jpg"
-</p>
 
-## <ins>What it does
+<img src="BadBank Home Page.jpg" align="center" width="600px"/>
+ScamCon Home Page.  Use navbar to look around.  Check out the bottom links to learn more about ScamCon
 
-The animated bus route follows a marker along a local bus route.  I made several improvements over the original including a create marker function that creates a marker at each point on the map.  I also animated a second marker that moves to each point on the map as well as adding to the function to recenter the map at each movement.  I also used a more readable map and button style.
+<br clear="center"/>
+
+<img src="BadBank Create Account.jpg" align="center" width="600px"/>
+
+Create Your Account.  Use the correct validation or ScamCon may make you start over!
+
+
+<br clear="center"/>
+
+
+<img src="BadBank Deposit.jpg" align="center" width="600px"/>
+
+Deposit funds.  You cannot deposit negative funds.  There is of course a deposit fee from bad bank.
+
+
+<br clear="center"/>
+
+<img src="BadBank Withdraw.jpg" align="center" width="600px"/>
+
+Withdraw funds.  You cannot withdraw more than you have.
+
+
+<br clear="center"/>
+
+<img src="BadBank All Data.jpg" align="center" width="600px"/>
+
+Review your Data...and everyone elses.  You can see you user info and balance.
+
+
+<br clear="center"/>
+ 
+
+## <ins>Install
+
 
 ## <ins>How to Run
 
